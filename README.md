@@ -1,2 +1,3 @@
 # Python_space_game.gg
-One of my favorites python game....Lets goo!!
+One of my frist py game >
+Do have a check..run codes.. make changes...Enjoy !!
